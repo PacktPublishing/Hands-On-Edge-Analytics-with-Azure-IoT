@@ -1,0 +1,10 @@
+1. False
+2. False
+3. True
+4. gpiozero
+5. ESP32-CAM, ESP-EYE, Maix K210
+6. False
+7. True
+8. blink
+9. True
+10.True

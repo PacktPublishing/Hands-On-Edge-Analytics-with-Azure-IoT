@@ -1,0 +1,10 @@
+1. True
+2. True
+3. True
+4. The main difference between Arduino and MicroPython is the place where the code is compiled and run. With Arduino the code is compiled on the PC before it is uploaded to the Arduino microcontroller. With MicroPython the code is stored and then executed on the microcontroller.
+5. uPyCraft, NODEMCU Firware Programmer, Thonny, esptool
+6. True
+7. True
+8. Through the use of an FTDI adapter.
+9. True
+10.True
