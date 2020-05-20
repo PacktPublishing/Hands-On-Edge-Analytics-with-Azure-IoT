@@ -1,0 +1,10 @@
+1. False
+2. True
+3. True
+4. face_recognition
+5. Face and Message
+6. True
+7. True
+8. True
+9. False
+10.True

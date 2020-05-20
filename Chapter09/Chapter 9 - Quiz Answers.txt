@@ -1,0 +1,10 @@
+1. True
+2. True
+3. Script that records your keystrokes usually delivered as a link through email.
+4. Vulnerability, Sniffing and Spoofing
+5. True
+6. By using a link with cross-site scripting in it.
+7. True
+8. TensorFlow, PyTorch, Keras
+9. True
+10.True
