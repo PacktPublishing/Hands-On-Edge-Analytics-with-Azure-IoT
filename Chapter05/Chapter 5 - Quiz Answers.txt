@@ -1,0 +1,10 @@
+1. True
+2. True
+3. False
+4. An open-source framework used to create a container system using libraries of container components.
+5. sudo apt-get install iotedge
+6. True
+7. True
+8. Azure portal
+9. True
+10.True

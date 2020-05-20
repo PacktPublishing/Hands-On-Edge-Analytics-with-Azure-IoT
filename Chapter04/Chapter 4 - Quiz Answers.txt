@@ -1,0 +1,10 @@
+1. True
+2. True
+3. Pay as you go cost structure.  Good for stateless function calls.
+4. Containers are similar to virtual machines with the exception of not having to install a separate operating system.
+5. False
+6. Microservices is the name given to the development technique of building applications from loosely coupled lightweight services.
+7. True
+8.  Azure IoT Hub is a managed service hosted in the cloud that allows for two way communication between an IoT application and its devices.
+9. False
+10.True
