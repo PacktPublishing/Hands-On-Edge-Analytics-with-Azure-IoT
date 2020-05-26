@@ -1,6 +1,6 @@
 # Hands-On-Edge-Analytics-with-Azure-IoT
 
-<a href="https://www.packtpub.com/programming/hands-on-edge-analytics-with-azure-iot?utm_source=github&utm_medium=repository&utm_campaign=9781838829902"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838644833-original.png" alt="Hands-On Edge Analytics with Azure IoT" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/programming/hands-on-edge-analytics-with-azure-iot?utm_source=github&utm_medium=repository&utm_campaign=9781838829902"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838829902-original.jpeg" alt="Hands-On Edge Analytics with Azure IoT" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On Edge Analytics with Azure IoT](https://www.packtpub.com/programming/hands-on-edge-analytics-with-azure-iot?utm_source=github&utm_medium=repository&utm_campaign=9781838829902), published by Packt.
 
