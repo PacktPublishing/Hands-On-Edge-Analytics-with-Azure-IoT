@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B14850?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Hands-On-Edge-Analytics-with-Azure-IoT
 
 <a href="https://www.packtpub.com/programming/hands-on-edge-analytics-with-azure-iot?utm_source=github&utm_medium=repository&utm_campaign=9781838829902"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838829902-original.jpeg" alt="Hands-On Edge Analytics with Azure IoT" height="256px" align="right"></a>
